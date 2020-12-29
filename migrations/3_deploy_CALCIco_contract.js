@@ -1,4 +1,4 @@
- / FirstErc20 is an artifact of the FirstErc20 contract
+ // FirstErc20 is an artifact of the FirstErc20 contract
 const FirstErc20 = artifacts.require('FirstErc20');
 // CALKIco is an artifact of the CALKIco contract
 const CALKIco = artifacts.require('CALKIco');
